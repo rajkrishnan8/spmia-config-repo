@@ -1,4 +1,4 @@
-example.property: "Hello I'm an example property"
+example.property: "Hello I'm a yet again reverted example property"
 tracer.property: "I AM THE DEFAULT"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform: "postgres"
