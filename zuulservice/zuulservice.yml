@@ -1,2 +1,2 @@
-zuul.prefix = /api
+zuul.prefix: /api
 
